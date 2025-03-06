@@ -1,5 +1,5 @@
 const screen = document.querySelector('.calculator-screen');
-
+// elo
 const keys = document.querySelectorAll(".calculator-keys>button");
 
 let numbers = [];
